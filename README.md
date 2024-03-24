@@ -1,1 +1,1 @@
-Budget-app for DB
+Budget-app for DB: GO + MySQL
